@@ -1,0 +1,3 @@
+rootProject.name = 'BTT6'
+
+include ':app'
